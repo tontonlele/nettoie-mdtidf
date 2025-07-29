@@ -1,6 +1,8 @@
 # nettoie_mdtidf
 Script de nettoyage de l'image Win 10 IDF ATOS
 
+Ce script est à exécuter sur le poste à déployer. Il peut aussi être éxecuté lors du processus de déploiement en l'ajoutant comme "Application" dans le MDT.
+
 ## Que fait ce script ?
 
 Ce script permet de :
